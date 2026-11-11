@@ -1,0 +1,6 @@
+__pycache__/
+.venv/
+*.pyc
+*.joblib
+*.pkl
+dados_tvs.csv
